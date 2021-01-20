@@ -1,1 +1,1 @@
-# TraderApp
+TraderApp is an application for managing relations with sales representatives, managing promotions and managing leased resources
